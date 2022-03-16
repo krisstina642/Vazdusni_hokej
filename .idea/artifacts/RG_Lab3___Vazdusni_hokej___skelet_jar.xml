@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RG Lab3 - Vazdusni hokej - skelet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RG_Lab3___Vazdusni_hokej___skelet_jar</output-path>
+    <root id="archive" name="RG Lab3 - Vazdusni hokej - skelet.jar">
+      <element id="module-output" name="RG Lab3 - Vazdusni hokej - skelet" />
+    </root>
+  </artifact>
+</component>
